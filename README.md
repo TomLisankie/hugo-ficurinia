@@ -1,5 +1,7 @@
 ![logo](static/logo.svg)
 
+Originally forked from https://gitlab.com/gabmus/hugo-ficurinia
+
 # Ficurinia
 
 A prickly blog theme for Hugo
